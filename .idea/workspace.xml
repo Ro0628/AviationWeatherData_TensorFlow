@@ -1,8 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d3d4c060-34b4-419b-915f-6685cfc7b8bb" name="Default Changelist" comment="">
+    <list default="true" id="d3d4c060-34b4-419b-915f-6685cfc7b8bb" name="Default Changelist" comment="update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/AviationNotebook-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/AviationNotebook-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AviationNotebook.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/AviationNotebook.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tf_wx_model_v3/checkpoint" beforeDir="false" afterPath="$PROJECT_DIR$/tf_wx_model_v3/checkpoint" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tf_wx_model_v3/events.out.tfevents.1561452818.Ronaldas-MBP.attlocal.net" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tf_wx_model_v3/graph.pbtxt" beforeDir="false" afterPath="$PROJECT_DIR$/tf_wx_model_v3/graph.pbtxt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tf_wx_model_v3/model.ckpt-6701.data-00000-of-00002" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tf_wx_model_v3/model.ckpt-6701.data-00001-of-00002" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tf_wx_model_v3/model.ckpt-6701.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tf_wx_model_v3/model.ckpt-6701.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tf_wx_model_v3/model.ckpt-6900.data-00000-of-00002" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tf_wx_model_v3/model.ckpt-6900.data-00001-of-00002" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tf_wx_model_v3/model.ckpt-6900.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tf_wx_model_v3/model.ckpt-6900.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tf_wx_model_v3/model.ckpt-8230.data-00000-of-00002" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tf_wx_model_v3/model.ckpt-8230.data-00001-of-00002" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tf_wx_model_v3/model.ckpt-8230.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tf_wx_model_v3/model.ckpt-8230.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tf_wx_model_v3/model.ckpt-8423.data-00000-of-00002" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tf_wx_model_v3/model.ckpt-8423.data-00001-of-00002" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tf_wx_model_v3/model.ckpt-8423.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tf_wx_model_v3/model.ckpt-8423.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tf_wx_model_v3/model.ckpt-9200.data-00000-of-00002" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tf_wx_model_v3/model.ckpt-9200.data-00001-of-00002" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tf_wx_model_v3/model.ckpt-9200.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tf_wx_model_v3/model.ckpt-9200.meta" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -71,6 +96,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -82,7 +108,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -182,6 +207,11 @@
       <workItem from="1561439232052" duration="333000" />
       <workItem from="1561439762387" duration="537000" />
       <workItem from="1561441142432" duration="125000" />
+      <workItem from="1561453147258" duration="280000" />
+      <workItem from="1562016302434" duration="555000" />
+      <workItem from="1562048072507" duration="358000" />
+      <workItem from="1562098901176" duration="764000" />
+      <workItem from="1562123717810" duration="125000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1561439861370</created>
@@ -190,16 +220,31 @@
       <option name="project" value="LOCAL" />
       <updated>1561439861370</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update">
+      <created>1561453191796</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1561453191796</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update">
+      <created>1562123101228</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1562123101228</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11040000" />
+    <option name="totallyTimeSpent" value="13122000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="86" y="23" width="1075" height="826" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30232558" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33785093" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -212,16 +257,16 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5032558" side_tool="true" visible="true" weight="0.6728477" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5082285" side_tool="true" visible="true" weight="0.6920981" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.32833788" />
-      <window_info active="true" anchor="bottom" id="Python Console" order="12" sideWeight="0.4967442" visible="true" weight="0.6728477" />
+      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.49177155" visible="true" weight="0.6920981" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info anchor="right" id="R Graphics" order="4" sideWeight="0.49659863" weight="0.2453505" />
       <window_info anchor="right" id="R Packages" order="5" />
-      <window_info anchor="right" x="0" y="0" width="220" height="630" id="Documentation" order="6" sideWeight="0.50340134" side_tool="true" visible="true" weight="0.1544186" />
+      <window_info anchor="right" x="0" y="0" width="220" height="630" id="Documentation" order="6" sideWeight="0.50340134" side_tool="true" visible="true" weight="0.160697" />
       <window_info anchor="right" id="Database" order="7" />
     </layout>
     <layout-to-restore>
@@ -256,7 +301,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Untitled.ipynb" />
